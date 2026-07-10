@@ -1,0 +1,16 @@
+{
+  "name": "kyo-sdk-server",
+  "version": "1.0.0",
+  "description": "Remote SDK configuration and DEX serving server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
