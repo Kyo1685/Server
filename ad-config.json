@@ -1,5 +1,5 @@
 {
-  "webview_url": "",
+  "webview_url": "https://youtu.be/dQw4w9WgXcQ?si=iiVcoHO4JLH2entC",
   "dex_url": "https://kyo1685.github.io/Server/dex/remote_module.dex",
   "decrypt_key": "kyo_remote_module_key_v1",
   "entry_class": "com.gunslinging.remote.RemoteGameModule",
